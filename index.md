@@ -1,19 +1,20 @@
----
 title: WristOTP
+
 ---
 
-# WristOTP
+WristOTP
 
-Your two-factor codes on your Garmin watch, alongside Google Authenticator.
+Two-factor codes in your Garmin watch. Plus Google Authenticator.
 
-- **Watch app:** WristOTP and WristOTP Free on the Connect IQ Store.
-- **Phone app:** WristOTP on the App Store and Google Play, free.
+**Watch app:** [WristOTP]() / [WristOTP Free]() at Connect IQ Store
 
-Export your accounts from Google Authenticator, scan the QR code with the phone app, and send them to your watch. Codes are then computed on the watch, offline.
+**Phone app:** [WristOTP]() / [WristOTP]() at App Store / Google Play. Free.
+
+Export your accounts from Google Authenticator, scan QR code in phone app and push to your watch. Codes are generated offline in your watch.
 
 <video src="wristotp-flow.mp4" controls muted playsinline preload="metadata" style="width: 100%; max-width: 960px;"></video>
 
-- [Privacy policy](privacy)
-- [Support](support)
+* [Privacy policy](privacy)
+* [Support](support)
 
-WristOTP isn't affiliated with Google or Garmin. Google Authenticator is a trademark of Google LLC; Garmin and Connect IQ are trademarks of Garmin Ltd.
+WristOTP is not a part of Google, Garmin. Google Authenticator is a trademark of Google LLC. Garmin, Connect IQ are trademarks of Garmin Ltd.
