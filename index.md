@@ -11,6 +11,8 @@ Your two-factor codes on your Garmin watch, alongside Google Authenticator.
 
 Export your accounts from Google Authenticator, scan the QR code with the phone app, and send them to your watch. Codes are then computed on the watch, offline.
 
+<video src="wristotp-flow.mp4" controls muted playsinline preload="metadata" style="width: 100%; max-width: 960px;"></video>
+
 - [Privacy policy](privacy)
 - [Support](support)
 
