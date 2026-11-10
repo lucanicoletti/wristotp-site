@@ -4,39 +4,44 @@ title: WristOTP Privacy Policy
 
 # WristOTP Privacy Policy
 
-_Last updated: 9 November 2026_
+Last updated: 9 November 2026
 
-WristOTP consists of a phone app (iOS and Android) and a watch app for Garmin Connect IQ devices (WristOTP and WristOTP Free).
+WristOTP is composed by a phone application (iOS and Android) and a watch application for Garmin Connect IQ devices (WristOTP and WristOTP Free).
 
-## What we collect
+### What we collect
 
-Nothing. WristOTP has no user accounts, no servers, no analytics, no advertising and no crash reporting. We never receive any of your data.
+Nothing. There are no user accounts, no servers, no analytics, no ads, no crash reporting in WristOTP. We don't get to see any of your data.
 
-## What the apps handle on your devices
+### What the apps do on your devices
 
-- **Two-factor account secrets** that you import from QR codes. They stay on your phone and on your watch.
-- **Camera:** used only while you scan a QR code. Images aren't stored.
-- **Photos:** only the image you pick in the system photo picker is read, to find QR codes in it. The image isn't copied or stored.
-- **Bluetooth:** used through the Garmin Connect app to send your accounts to your watch.
+2FA account secrets you import from QR codes, stored in your phone and watch.
 
-## Storage and security
+Camera (used only during QR code scanning). No images are saved.
 
-- The phone app doesn't save your accounts. They're kept in memory only while the app is open, and are gone when you close it or tap **Clear**.
-- On the watch, your accounts are stored in the app's private storage. If you turn on the PIN, only a salted hash of the PIN is stored. After 10 wrong attempts the watch erases its accounts.
-- Uninstalling an app deletes everything it stored.
+Photos (only the selected one from the system photo picker). It's read to find QR codes. No copying or saving of the image.
 
-## Third parties
+Bluetooth (used via Garmin Connect app to send your accounts to your watch).
 
-Messages between the phone and the watch pass through Garmin's Connect IQ software on your phone (the Garmin Connect app) under Garmin's own privacy policy. The phone app includes Garmin's Connect IQ Mobile SDK only to talk to Garmin Connect; it doesn't send data anywhere else. Garmin doesn't collect anything on WristOTP's behalf, and no data is sent to any other party.
+### Saving and security
 
-## Children
+Phone application. Your accounts are not saved. They are just in-memory (as long as the app is open), then they are lost if you close the app or click "Clear".
 
-WristOTP isn't directed at children and collects no data from anyone.
+Watch. Your accounts are saved in the app's private storage. (You can enable the PIN and it will only save a salted hash of the PIN.) After 10 failed attempts your watch will wipe all accounts.
 
-## Changes
+When you uninstall an app it deletes all saved data.
 
-Any changes to this policy will be published at this address.
+### Third parties
 
-## Contact
+When the phone app communicates with your watch, it uses Garmin's Connect IQ software on your phone (Garmin Connect app). It is subject to Garmin's own privacy policy. (The phone app contains Garmin's Connect IQ Mobile SDK only to interact with Garmin Connect. It does not send data to other parties.) Garmin does not collect any data on behalf of WristOTP. No data is sent to any other party.
 
-Questions about this policy: luca.nicolett@gmail.com
+### Children
+
+WristOTP is not intended for children. No data is collected from anyone.
+
+### Changes
+
+Changes to this policy will be posted at this location.
+
+### Contact
+
+If you have any questions about this policy [contact me](emailto:luca.nicolett@gmail.com).
