@@ -6,9 +6,9 @@ WristOTP
 
 Two-factor codes on your Garmin watch. Works with Google Authenticator.
 
-**Watch app:** [WristOTP]() / [WristOTP Free]() on the Connect IQ Store.
+Free and open source. **[Get the code on GitHub](https://github.com/lucanicoletti/wristotp)**
 
-**Phone app:** [WristOTP]() / [WristOTP]() on the App Store / Google Play. Free.
+WristOTP isn't in the app stores and there are no downloads. You build the watch app and the phone app (Android or iPhone) from the code and install them yourself. The [README](https://github.com/lucanicoletti/wristotp#watch) shows how.
 
 Export your accounts from Google Authenticator, scan the QR code with the phone app and push them to your watch. Codes are generated offline, on your watch.
 

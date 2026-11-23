@@ -4,9 +4,9 @@ title: WristOTP Privacy Policy
 
 # WristOTP Privacy Policy
 
-Last updated: 10 November 2026
+Last updated: 18 November 2026
 
-WristOTP is made of a phone app (iOS and Android) and a watch app for Garmin Connect IQ devices (WristOTP and WristOTP Free).
+WristOTP is made of a phone app (iOS and Android) and a watch app for Garmin Connect IQ devices.
 
 ### What we collect
 
